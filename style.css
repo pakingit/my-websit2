@@ -1,0 +1,37 @@
+body {
+    background: center url(img/flat-international-dog-day-background_52683-127727.jpg) no-repeat fixed;
+
+}
+
+p {
+    border-style: dotted;
+    border-color: rgb(17, 28, 241);
+    border-width: 5px;
+    border-color: red;
+}
+
+div {
+    /* width: 20px;
+    height: 550px; */
+
+    width: 250px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 0;
+    background-color: rgb(12, 163, 233);
+    color: aliceblue;
+
+}
+
+h1 {
+    text-shadow: 2px 2px 5px red;
+}
+
+font {
+    text-shadow: 2px 2px 5px red;
+}
+
+b {
+    text-transform: uppercase;
+
+}
