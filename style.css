@@ -10,6 +10,7 @@ p {
     border-color: red;
 }
 
+
 div {
     /* width: 20px;
     height: 550px; */
@@ -43,8 +44,8 @@ p {
     font-style: normal;
 }
 
-
 .dog {
+
 
     position: fixed;
     bottom: 0;
@@ -53,6 +54,12 @@ p {
     border: 2px solid #73AD21;
 
 
+
+}
+
+
+a {
+    text-decoration: none;
 }
 
 
